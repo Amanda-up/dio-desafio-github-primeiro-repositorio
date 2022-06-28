@@ -1,0 +1,5 @@
+git add .
+git status
+git commit -m "Aqui seu motivo de alteração"
+git clone
+git push origin main
